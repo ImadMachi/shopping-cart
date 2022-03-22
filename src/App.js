@@ -1,5 +1,9 @@
 function App() {
-  return <div>hello</div>;
+  return (
+    <div>
+      <img src="./images/img1.webp" alt="" />
+    </div>
+  );
 }
 
 export default App;
